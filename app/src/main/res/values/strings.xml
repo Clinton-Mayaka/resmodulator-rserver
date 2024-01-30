@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ResmodulatorServer</string>
+    <string name="slogan">Manage Your restaurant with ease</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">menu</string>
+    <string name="cart">cart</string>
+    <string name="orders">orders</string>
+    <string name="tables">tables</string>
+    <string name="profile">profile</string>
+    <string name="payments">payments</string>
+    <string name="log_out">logout</string>
+
+
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1090314049396",
+    "firebase_url": "https://myresmodulator.firebaseio.com",
+    "project_id": "myresmodulator",
+    "storage_bucket": "myresmodulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090314049396:android:076d92a2a87c99533a7e21",
+        "android_client_info": {
+          "package_name": "com.example.resmodulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090314049396-l9k8j1eap1rcm6j7npelq2hsutthg5f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHeOUqTRVfYXHFq0O0MYVWpBrezF4U_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090314049396-l9k8j1eap1rcm6j7npelq2hsutthg5f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090314049396:android:cb70d4fc7052b6b43a7e21",
+        "android_client_info": {
+          "package_name": "com.example.resmodulatorserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090314049396-l9k8j1eap1rcm6j7npelq2hsutthg5f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHeOUqTRVfYXHFq0O0MYVWpBrezF4U_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090314049396-l9k8j1eap1rcm6j7npelq2hsutthg5f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
